@@ -1,6 +1,7 @@
 # 🏢 Personel ve Maaş Takip Sistemi
 
-Küçük ve orta ölçekli işletmeler için geliştirilmiş, kullanımı son derece kolay, modern arayüzlü personel ve maaş takip otomasyonu.
+Babam için yapay zeka ile geliştirdiğim, kullanımı son derece kolay, modern arayüzlü personel ve maaş takip otomasyonu.
+Şifre:1234
 
 ## 🚀 Özellikler
 * **Günlük Devamsızlık Takibi:** Pazartesi - Cuma arası saatlik, yarım günlük veya tam günlük kesinti hesaplama.
